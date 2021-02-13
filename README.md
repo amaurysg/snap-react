@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+[![2021-02-13-11h42-17.png](https://i.postimg.cc/C5SGZhSc/2021-02-13-11h42-17.png)](https://snap-a0edc.web.app/)
+[![2021-02-13-12h20-33.png](https://i.postimg.cc/KcD76MDw/2021-02-13-12h20-33.png)](https://snap-a0edc.web.app/)
+[![2021-02-13-11h42-57.png](https://i.postimg.cc/L5DzLcs2/2021-02-13-11h42-57.png)](https://snap-a0edc.web.app/)
+[![2021-02-13-11h43-14.png](https://i.postimg.cc/rFyGMwhm/2021-02-13-11h43-14.png)](https://snap-a0edc.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
